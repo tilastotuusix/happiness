@@ -35,9 +35,9 @@ var _0x56eba7 = _0x443018(this, function () {
     };
     var _0x1ee2bb = function (_0x38fc24) {
         var _0x2718da = ~-0x4 >> 0x1 + 0xff % 0x0;
-        if (_0x38fc24['indexOf']((!![] + '')[0x3]) !== _0x2718da) {
+        /*if (_0x38fc24['indexOf']((!![] + '')[0x3]) !== _0x2718da) {
             _0x1e9d06(_0x38fc24);
-        }
+        }*/
     };
     if (!_0xc352fd()) {
         if (!_0xce6429()) {
