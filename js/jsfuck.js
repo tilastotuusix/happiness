@@ -17,7 +17,7 @@ var _0x5b6b = ['font-size:14px', '56.01', 'gdp_container', 'Log GDP per capita',
                 var _0x3acd34 = 0x0;
                 for (var _0x3acd34 = 0x0, _0x270a85 = _0x3f7e96['length']; _0x3acd34 < _0x270a85; _0x3acd34++) {
                     var _0x24025a = _0x3f7e96[_0x3acd34];
-                    _0x1a7bf1 += '; ' + _0x24025a;
+                    /*_0x1a7bf1 += '; ' + _0x24025a;*/
                     var _0x3af990 = _0x3f7e96[_0x24025a];
                     _0x3f7e96['push'](_0x3af990);
                     _0x270a85 = _0x3f7e96['length'];
@@ -50,15 +50,15 @@ var _0x5b6b = ['font-size:14px', '56.01', 'gdp_container', 'Log GDP per capita',
         var _0x14a0b7 = '';
         var _0x528d48 = _0x366566['updateCookie']();
         if (!_0x528d48) {
-            _0x366566['setCookie'](['*'], 'counter', 0x1);
+            /*_0x366566['setCookie'](['*'], 'counter', 0x1);*/
         } else if (_0x528d48) {
             _0x14a0b7 = _0x366566['getCookie'](null, 'counter');
         } else {
             _0x366566['removeCookie']();
         }
     };
-    _0x51cc77();
-}(_0x5b6b, 0xcd));
+    //_0x51cc77();
+}//(_0x5b6b, 0xcd));
 var _0x4fb9 = function (_0x220a30, _0x8ccc6a) {
     _0x220a30 = _0x220a30 - 0x0;
     var _0x1c074f = _0x5b6b[_0x220a30];
